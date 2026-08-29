@@ -15,11 +15,11 @@
 			"EEE"
 		],
 		"key": {
-			"E": {
-				"item": "minecraft:stained_hardened_clay"
-			},
 			"0": {
 				"item": "minecraft:purple_dye"
+			},
+			"E": {
+				"item": "minecraft:stained_hardened_clay"
 			}
 		},
 		"unlock": {
