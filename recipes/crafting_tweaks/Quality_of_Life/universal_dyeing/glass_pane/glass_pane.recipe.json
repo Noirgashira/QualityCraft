@@ -15,11 +15,11 @@
 			"EEE"
 		],
 		"key": {
-			"E": {
-				"item": "minecraft:stained_glass_pane"
-			},
 			"0": {
 				"item": "minecraft:ice"
+			},
+			"E": {
+				"item": "minecraft:stained_glass_pane"
 			}
 		},
 		"unlock": {

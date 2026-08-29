@@ -15,11 +15,11 @@
 			"EEE"
 		],
 		"key": {
-			"E": {
-				"item": "minecraft:concrete_powder"
-			},
 			"0": {
 				"item": "minecraft:gray_dye"
+			},
+			"E": {
+				"item": "minecraft:concrete_powder"
 			}
 		},
 		"unlock": {
