@@ -1,0 +1,25 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "qc:powdered_snow_bucket_from_snow_and_bucket"
+    },
+    "tags": ["qc_workbench"],
+    "unlock": [
+      {
+        "item": "minecraft:snow"
+      }
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:snow"
+      },
+      {
+        "item": "minecraft:bucket"
+      }
+    ],
+    "result": {
+      "item": "minecraft:powder_snow_bucket"
+    }
+  }
+}

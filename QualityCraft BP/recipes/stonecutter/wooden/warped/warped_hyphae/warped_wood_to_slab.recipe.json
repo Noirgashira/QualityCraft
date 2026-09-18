@@ -1,0 +1,25 @@
+{
+    "format_version": "1.26.30",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "qc:stonecutter_warped_wood_to_slab"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:warped_hyphae"
+            }
+        ],
+        "result": {
+            "item": "minecraft:warped_slab",
+            "count": 8
+        },
+        "unlock": [
+            {
+                "item": "minecraft:warped_hyphae"
+            }
+        ]
+    }
+}

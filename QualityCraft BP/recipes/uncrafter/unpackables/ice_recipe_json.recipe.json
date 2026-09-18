@@ -1,0 +1,24 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "qc:unpack_ice_recipe_json"
+    },
+    "tags": ["qc_uncrafter"],
+    "priority": -1,
+    "ingredients": [
+      {
+        "item": "minecraft:packed_ice"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:packed_ice"
+      }
+    ],
+    "result": {
+      "item": "minecraft:ice",
+      "count": 9
+    }
+  }
+}

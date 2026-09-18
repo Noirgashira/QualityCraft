@@ -1,0 +1,16 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "qc:ironblockfromrawironblock"
+    },
+    "input": "minecraft:raw_iron_block",
+    "output": "minecraft:iron_block",
+    "tags": ["furnace", "blast_furnace"],
+    "unlock": [
+      {
+        "item": "minecraft:raw_iron_block"
+      }
+    ]
+  }
+}

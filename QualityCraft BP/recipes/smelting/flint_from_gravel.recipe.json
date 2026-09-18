@@ -1,0 +1,16 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "qc:smeltable_flint"
+    },
+    "input": "minecraft:gravel",
+    "output": "minecraft:flint",
+    "tags": ["furnace"],
+    "unlock": [
+      {
+        "item": "minecraft:gravel"
+      }
+    ]
+  }
+}

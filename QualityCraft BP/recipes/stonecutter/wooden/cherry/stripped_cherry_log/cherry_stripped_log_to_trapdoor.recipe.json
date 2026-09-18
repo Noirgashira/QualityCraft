@@ -1,0 +1,25 @@
+{
+    "format_version": "1.26.30",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "qc:stonecutter_cherry_stripped_log_to_trapdoor"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:stripped_cherry_log"
+            }
+        ],
+        "result": {
+            "item": "minecraft:cherry_trapdoor",
+            "count": 8
+        },
+        "unlock": [
+            {
+                "item": "minecraft:stripped_cherry_log"
+            }
+        ]
+    }
+}

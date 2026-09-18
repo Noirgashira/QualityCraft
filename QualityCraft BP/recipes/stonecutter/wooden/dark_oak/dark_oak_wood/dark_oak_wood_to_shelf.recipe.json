@@ -1,0 +1,25 @@
+{
+    "format_version": "1.26.30",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "qc:stonecutter_dark_oak_wood_to_shelf"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:dark_oak_wood"
+            }
+        ],
+        "result": {
+            "item": "minecraft:dark_oak_shelf",
+            "count": 1
+        },
+        "unlock": [
+            {
+                "item": "minecraft:dark_oak_wood"
+            }
+        ]
+    }
+}
