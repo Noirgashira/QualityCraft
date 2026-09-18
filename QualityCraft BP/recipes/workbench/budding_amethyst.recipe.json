@@ -1,0 +1,27 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "qc:budding_amethyst"
+    },
+    "tags": ["qc_workbench"],
+    "pattern": [" S ", "SAS", " S "],
+    "key": {
+      "S": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "A": {
+        "item": "minecraft:amethyst_block"
+      }
+    },
+    "result": {
+      "item": "minecraft:budding_amethyst",
+      "count": 1
+    },
+    "unlock": [
+      {
+        "item": "minecraft:amethyst_shard"
+      }
+    ]
+  }
+}

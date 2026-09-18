@@ -1,0 +1,25 @@
+{
+  "format_version": "1.26.50",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "qc:recycle_poplar_planks_slab"
+    },
+    "tags": ["qc_uncrafter"],
+    "pattern": ["##"],
+    "key": {
+      "#": {
+        "item": "minecraft:poplar_slab"
+      }
+    },
+    "result": {
+      "item": "minecraft:poplar_planks",
+      "count": 1
+    },
+    "unlock": [
+      {
+        "item": "minecraft:poplar_slab"
+      }
+    ],
+    "priority": -1
+  }
+}

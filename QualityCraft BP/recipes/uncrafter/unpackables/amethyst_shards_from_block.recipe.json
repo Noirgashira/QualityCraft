@@ -1,0 +1,22 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "qc:unpack_amethyst_shards_from_block"
+    },
+    "tags": ["qc_uncrafter"],
+    "group": "qualitycraft_unpackables",
+    "unlock": {
+      "context": "AlwaysUnlocked"
+    },
+    "ingredients": [
+      {
+        "item": "minecraft:amethyst_block"
+      }
+    ],
+    "result": {
+      "item": "minecraft:amethyst_shard",
+      "count": 4
+    }
+  }
+}

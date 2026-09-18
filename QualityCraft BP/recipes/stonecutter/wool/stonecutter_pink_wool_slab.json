@@ -1,0 +1,25 @@
+{
+  "format_version": "1.26.50",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "qc:stonecutter_pink_wool_slab"
+    },
+    "tags": [
+      "stonecutter"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:pink_wool"
+      }
+    ],
+    "result": {
+      "item": "minecraft:pink_wool_slab",
+      "count": 2
+    },
+    "unlock": [
+      {
+        "item": "minecraft:pink_wool"
+      }
+    ]
+  }
+}

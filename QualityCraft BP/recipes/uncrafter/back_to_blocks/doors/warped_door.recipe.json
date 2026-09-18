@@ -1,0 +1,24 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "qc:recycle_warped_door"
+    },
+    "tags": ["qc_uncrafter"],
+    "group": "doors_to_blocks",
+    "unlock": [
+      {
+        "item": "minecraft:warped_door"
+      }
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:warped_door"
+      }
+    ],
+    "result": {
+      "item": "minecraft:warped_planks",
+      "count": 2
+    }
+  }
+}
