@@ -1,0 +1,25 @@
+{
+    "format_version": "1.26.30",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "qc:stonecutter_birch_stripped_log_to_shelf"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:stripped_birch_log"
+            }
+        ],
+        "result": {
+            "item": "minecraft:birch_shelf",
+            "count": 1
+        },
+        "unlock": [
+            {
+                "item": "minecraft:stripped_birch_log"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "qc:unpack_nether_wart_from_block"
+    },
+    "tags": ["qc_uncrafter"],
+    "priority": -1,
+    "ingredients": [
+      {
+        "item": "minecraft:nether_wart_block"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:nether_wart_block"
+      }
+    ],
+    "result": {
+      "item": "minecraft:nether_wart",
+      "count": 9
+    }
+  }
+}

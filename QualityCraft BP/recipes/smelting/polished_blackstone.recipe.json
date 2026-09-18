@@ -1,0 +1,16 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "qc:smeltable_polished_blackstone"
+    },
+    "input": "minecraft:polished_basalt",
+    "output": "minecraft:polished_blackstone",
+    "tags": ["furnace"],
+    "unlock": [
+      {
+        "item": "minecraft:polished_basalt"
+      }
+    ]
+  }
+}

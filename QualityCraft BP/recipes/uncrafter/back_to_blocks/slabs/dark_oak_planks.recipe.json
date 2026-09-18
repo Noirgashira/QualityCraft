@@ -1,0 +1,26 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "qc:recycle_dark_oak_planks_slab"
+    },
+    "tags": ["qc_uncrafter"],
+    "group": "slabs_to_blocks",
+    "priority": -1,
+    "pattern": ["##"],
+    "key": {
+      "#": {
+        "item": "minecraft:dark_oak_slab"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:dark_oak_slab"
+      }
+    ],
+    "result": {
+      "item": "minecraft:dark_oak_planks",
+      "count": 1
+    }
+  }
+}

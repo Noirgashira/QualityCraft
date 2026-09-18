@@ -1,0 +1,26 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "qc:recycle_blackstone_slab"
+    },
+    "tags": ["qc_uncrafter"],
+    "group": "slabs_to_blocks",
+    "priority": -1,
+    "pattern": ["##"],
+    "key": {
+      "#": {
+        "item": "minecraft:blackstone_slab"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:blackstone_slab"
+      }
+    ],
+    "result": {
+      "item": "minecraft:blackstone",
+      "count": 1
+    }
+  }
+}

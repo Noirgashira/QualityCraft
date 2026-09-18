@@ -1,0 +1,20 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "qc:powder_to_glass_pink_stained_glass"
+    },
+    "tags": ["furnace"],
+    "input": {
+      "item": "minecraft:pink_concrete_powder"
+    },
+    "output": {
+      "item": "minecraft:pink_stained_glass"
+    },
+    "unlock": [
+      {
+        "item": "minecraft:pink_concrete_powder"
+      }
+    ]
+  }
+}

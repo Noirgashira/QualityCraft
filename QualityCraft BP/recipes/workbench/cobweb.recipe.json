@@ -1,0 +1,24 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "qc:craftable_cobweb"
+    },
+    "unlock": [
+      {
+        "item": "minecraft:string"
+      }
+    ],
+    "pattern": ["A A", " A ", "A A"],
+    "key": {
+      "A": {
+        "item": "string"
+      }
+    },
+    "result": {
+      "item": "minecraft:web",
+      "count": 1
+    },
+    "tags": ["qc_workbench"]
+  }
+}

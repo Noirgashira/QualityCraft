@@ -1,0 +1,25 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "qc:recycle_spruce_trapdoor"
+    },
+    "tags": ["qc_uncrafter"],
+    "group": "trapdoors_to_resources",
+    "priority": -1,
+    "pattern": ["##"],
+    "key": {
+      "#": {
+        "item": "minecraft:spruce_trapdoor"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:spruce_trapdoor"
+      }
+    ],
+    "result": {
+      "item": "minecraft:spruce_planks"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "qc:recycle_quartz_block_stairs"
+    },
+    "tags": ["qc_uncrafter"],
+    "ingredients": [
+      {
+        "item": "minecraft:quartz_stairs"
+      }
+    ],
+    "result": {
+      "item": "minecraft:quartz_block",
+      "count": 1
+    },
+    "unlock": [
+      {
+        "item": "minecraft:quartz_stairs"
+      }
+    ]
+  }
+}

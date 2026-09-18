@@ -1,0 +1,23 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "qc:recycle_cinnabar_bricks_wall"
+    },
+    "tags": ["qc_uncrafter"],
+    "group": "walls_to_blocks",
+    "unlock": [
+      {
+        "item": "minecraft:cinnabar_brick_wall"
+      }
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:cinnabar_brick_wall"
+      }
+    ],
+    "result": {
+      "item": "minecraft:cinnabar_bricks"
+    }
+  }
+}
