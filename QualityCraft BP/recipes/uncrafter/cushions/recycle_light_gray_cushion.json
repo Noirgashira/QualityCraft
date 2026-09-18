@@ -1,0 +1,24 @@
+{
+  "format_version": "1.26.50",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "qc:recycle_light_gray_cushion"
+    },
+    "tags": ["qc_uncrafter"],
+    "ingredients": [
+      {
+        "item": "minecraft:light_gray_cushion"
+      }
+    ],
+    "result": {
+      "item": "minecraft:light_gray_wool_slab",
+      "count": 3
+    },
+    "unlock": [
+      {
+        "item": "minecraft:light_gray_cushion"
+      }
+    ],
+    "priority": -1
+  }
+}

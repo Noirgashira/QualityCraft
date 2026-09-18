@@ -1,0 +1,24 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "qc:recycle_cherry_door"
+    },
+    "tags": ["qc_uncrafter"],
+    "group": "doors_to_blocks",
+    "unlock": [
+      {
+        "item": "minecraft:cherry_door"
+      }
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:cherry_door"
+      }
+    ],
+    "result": {
+      "item": "minecraft:cherry_planks",
+      "count": 2
+    }
+  }
+}

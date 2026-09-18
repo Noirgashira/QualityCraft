@@ -1,0 +1,20 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "qc:powder_to_glass_green_stained_glass"
+    },
+    "tags": ["furnace"],
+    "input": {
+      "item": "minecraft:green_concrete_powder"
+    },
+    "output": {
+      "item": "minecraft:green_stained_glass"
+    },
+    "unlock": [
+      {
+        "item": "minecraft:green_concrete_powder"
+      }
+    ]
+  }
+}

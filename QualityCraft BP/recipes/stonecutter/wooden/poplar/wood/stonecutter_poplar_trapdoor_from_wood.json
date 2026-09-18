@@ -1,0 +1,25 @@
+{
+  "format_version": "1.26.50",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "qc:stonecutter_poplar_trapdoor_from_wood"
+    },
+    "tags": [
+      "stonecutter"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:poplar_wood"
+      }
+    ],
+    "result": {
+      "item": "minecraft:poplar_trapdoor",
+      "count": 8
+    },
+    "unlock": [
+      {
+        "item": "minecraft:poplar_wood"
+      }
+    ]
+  }
+}

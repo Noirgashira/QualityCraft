@@ -1,0 +1,26 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "qc:recycle_waxed_weathered_cut_copper_slab"
+    },
+    "tags": ["qc_uncrafter"],
+    "group": "slabs_to_blocks",
+    "priority": -1,
+    "pattern": ["##"],
+    "key": {
+      "#": {
+        "item": "minecraft:waxed_weathered_cut_copper_slab"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:waxed_weathered_cut_copper_slab"
+      }
+    ],
+    "result": {
+      "item": "minecraft:waxed_weathered_cut_copper",
+      "count": 1
+    }
+  }
+}
