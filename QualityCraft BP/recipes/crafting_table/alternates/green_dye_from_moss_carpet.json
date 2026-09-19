@@ -1,0 +1,25 @@
+{
+  "format_version": "1.26.50",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "qc:green_dye_from_moss_carpet"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:moss_carpet"
+      }
+    ],
+    "result": {
+      "item": "minecraft:green_dye",
+      "count": 1
+    },
+    "unlock": [
+      {
+        "item": "minecraft:moss_carpet"
+      }
+    ]
+  }
+}
