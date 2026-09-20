@@ -1,0 +1,25 @@
+{
+  "format_version": "1.26.50",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "qc:unpack_carrot_bundle"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "qualitycraft:carrot_bundle"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "qualitycraft:carrot_bundle"
+      }
+    ],
+    "result": {
+      "item": "minecraft:carrot",
+      "count": 8
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "format_version": "1.26.50",
+  "minecraft:item": {
+    "description": {
+      "identifier": "qualitycraft:glow_berry_bundle",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:display_name": {
+        "value": "Box of Glow Berries"
+      },
+      "minecraft:max_stack_size": 64,
+      "minecraft:icon": "qualitycraft_glow_berry_bundle"
+    }
+  }
+}

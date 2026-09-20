@@ -15,6 +15,21 @@
               "minecraft:dropper",
               "minecraft:dispenser"
             ]
+          },
+          {
+            "group_identifier": {
+              "icon": "qualitycraft:carrot_bundle",
+              "name": "qualitycraft:farming_update_group"
+            },
+            "items": [
+              "qualitycraft:beetroot_bundle",
+              "qualitycraft:potato_bundle",
+              "qualitycraft:carrot_bundle",
+              "qualitycraft:apple_bundle",
+              "qualitycraft:sweet_berry_bundle",
+              "qualitycraft:glow_berry_bundle",
+              "qualitycraft:sugar_cane_bundle"
+            ]
           }
         ]
       }
