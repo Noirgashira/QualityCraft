@@ -1,0 +1,25 @@
+{
+  "format_version": "1.26.50",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "qc:unpack_beetroot_bundle"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "qualitycraft:beetroot_bundle"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "qualitycraft:beetroot_bundle"
+      }
+    ],
+    "result": {
+      "item": "minecraft:beetroot",
+      "count": 8
+    }
+  }
+}

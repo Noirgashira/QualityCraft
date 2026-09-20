@@ -1,0 +1,24 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "qc:recycle_crimson_door"
+    },
+    "tags": ["qc_uncrafter"],
+    "group": "doors_to_blocks",
+    "unlock": [
+      {
+        "item": "minecraft:crimson_door"
+      }
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:crimson_door"
+      }
+    ],
+    "result": {
+      "item": "minecraft:crimson_planks",
+      "count": 2
+    }
+  }
+}

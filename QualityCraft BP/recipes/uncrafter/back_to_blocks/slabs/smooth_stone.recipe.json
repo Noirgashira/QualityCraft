@@ -1,0 +1,26 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "qc:recycle_smooth_stone_slab"
+    },
+    "tags": ["qc_uncrafter"],
+    "group": "slabs_to_blocks",
+    "priority": -1,
+    "pattern": ["##"],
+    "key": {
+      "#": {
+        "item": "minecraft:smooth_stone_slab"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:smooth_stone_slab"
+      }
+    ],
+    "result": {
+      "item": "minecraft:smooth_stone",
+      "count": 1
+    }
+  }
+}

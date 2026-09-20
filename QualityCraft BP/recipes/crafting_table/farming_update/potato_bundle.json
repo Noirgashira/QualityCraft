@@ -1,0 +1,33 @@
+{
+  "format_version": "1.26.50",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "qc:potato_bundle"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "CCC",
+      "CSC",
+      "CCC"
+    ],
+    "key": {
+      "C": {
+        "item": "minecraft:potato"
+      },
+      "S": {
+        "tag": "minecraft:planks"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:potato"
+      }
+    ],
+    "result": {
+      "item": "qualitycraft:potato_bundle",
+      "count": 1
+    }
+  }
+}

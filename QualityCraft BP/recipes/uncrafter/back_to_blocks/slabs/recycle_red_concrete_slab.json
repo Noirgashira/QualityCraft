@@ -1,0 +1,24 @@
+{
+  "format_version": "1.26.50",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "qc:recycle_red_concrete_slab"
+    },
+    "tags": ["qc_uncrafter"],
+    "pattern": ["##"],
+    "key": {
+      "#": {
+        "item": "minecraft:red_concrete_slab"
+      }
+    },
+    "result": {
+      "item": "minecraft:red_concrete"
+    },
+    "unlock": [
+      {
+        "item": "minecraft:red_concrete_slab"
+      }
+    ],
+    "priority": -1
+  }
+}

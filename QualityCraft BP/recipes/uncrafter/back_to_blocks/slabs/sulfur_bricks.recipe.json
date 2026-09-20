@@ -1,0 +1,25 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "qc:recycle_sulfur_bricks_slab"
+    },
+    "tags": ["qc_uncrafter"],
+    "group": "slabs_to_blocks",
+    "priority": -1,
+    "pattern": ["##"],
+    "key": {
+      "#": {
+        "item": "minecraft:sulfur_brick_slab"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:sulfur_brick_slab"
+      }
+    ],
+    "result": {
+      "item": "minecraft:sulfur_bricks"
+    }
+  }
+}

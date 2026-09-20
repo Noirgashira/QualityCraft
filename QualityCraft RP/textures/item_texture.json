@@ -1,0 +1,27 @@
+{
+  "resource_pack_name": "QualityCraft Farming Update Minimal Lab",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "qualitycraft_beetroot_bundle": {
+      "textures": "textures/items/farming_update/beetroot_bundle"
+    },
+    "qualitycraft_potato_bundle": {
+      "textures": "textures/items/farming_update/potato_bundle"
+    },
+    "qualitycraft_carrot_bundle": {
+      "textures": "textures/items/farming_update/carrot_bundle"
+    },
+    "qualitycraft_apple_bundle": {
+      "textures": "textures/items/farming_update/apple_bundle"
+    },
+    "qualitycraft_sweet_berry_bundle": {
+      "textures": "textures/items/farming_update/sweet_berry_bundle"
+    },
+    "qualitycraft_glow_berry_bundle": {
+      "textures": "textures/items/farming_update/glow_berry_bundle"
+    },
+    "qualitycraft_sugar_cane_bundle": {
+      "textures": "textures/items/farming_update/sugar_cane_bundle"
+    }
+  }
+}

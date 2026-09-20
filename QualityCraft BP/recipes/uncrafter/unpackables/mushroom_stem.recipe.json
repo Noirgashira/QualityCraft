@@ -1,0 +1,23 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "qc:mushroom_stem_to_mushrooms"
+    },
+    "tags": ["qc_uncrafter"],
+    "ingredients": [
+      {
+        "item": "minecraft:mushroom_stem"
+      }
+    ],
+    "result": {
+      "item": "minecraft:brown_mushroom",
+      "count": 4
+    },
+    "unlock": [
+      {
+        "item": "minecraft:mushroom_stem"
+      }
+    ]
+  }
+}

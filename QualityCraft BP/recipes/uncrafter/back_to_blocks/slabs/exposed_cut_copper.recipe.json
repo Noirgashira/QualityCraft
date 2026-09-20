@@ -1,0 +1,26 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "qc:recycle_exposed_cut_copper_slab"
+    },
+    "tags": ["qc_uncrafter"],
+    "group": "slabs_to_blocks",
+    "priority": -1,
+    "pattern": ["##"],
+    "key": {
+      "#": {
+        "item": "minecraft:exposed_cut_copper_slab"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:exposed_cut_copper_slab"
+      }
+    ],
+    "result": {
+      "item": "minecraft:exposed_cut_copper",
+      "count": 1
+    }
+  }
+}

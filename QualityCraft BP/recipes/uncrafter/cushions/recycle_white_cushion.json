@@ -1,0 +1,24 @@
+{
+  "format_version": "1.26.50",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "qc:recycle_white_cushion"
+    },
+    "tags": ["qc_uncrafter"],
+    "ingredients": [
+      {
+        "item": "minecraft:white_cushion"
+      }
+    ],
+    "result": {
+      "item": "minecraft:white_wool_slab",
+      "count": 3
+    },
+    "unlock": [
+      {
+        "item": "minecraft:white_cushion"
+      }
+    ],
+    "priority": -1
+  }
+}
