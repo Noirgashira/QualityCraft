@@ -3,6 +3,7 @@ Changelog v1.2
 Recipe Changes:
 - Corrected the Shulker Box recipe unlock item from minecraft:sugar_cane to minecraft:shulker_shell
 - Removed unnecessary secondary unlock items from four recipes: red_sand.recipe.json, red_sandstone.recipe.json, smooth_red_sandstone.recipe.json, and sand_from_soulsand_and_gravel.recipe.json
+- Removed unnecessary/duplicate recipes for coral blocks
 
 Structure Changes:
 - Reconfigured the folder structure for the stonecutter: added a sub-folder called "wooden"
