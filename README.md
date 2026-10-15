@@ -15,8 +15,6 @@ Structure Changes:
 
 New Additions:
 - Added README file for changelog of pack
-- Added a standalone recipe guide (html file)
 - Added apples_from_poplar.recipe.json (accidentally left out)
-- Added recipes for mossy cobblestone and mossy stone bricks
 - Added recipe alternates for green and brown dye
 - Added farming_update items (boxes/bundle of crops)
